@@ -21,7 +21,7 @@
     "webpack"
   ],
   "author": "Daniil Aleksieiev <aleksieiev.daniil@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/daniil-aleksieiev/webpack-starter-kit/issues"
   },
