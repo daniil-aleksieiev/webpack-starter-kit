@@ -101,7 +101,8 @@ module.exports = {
   optimization: optimization(),
   devServer: {
     port: 4200,
-    hot: devMode
+    hot: devMode,
+    watchContentBase: true
   },
   devtool: devMode ? 'source-map' : '',
   plugins: [
